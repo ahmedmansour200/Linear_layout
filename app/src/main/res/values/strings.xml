@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Task Linear Layout</string>
+    <string name="name">Ahmed Mansour</string>
+    <string name="country">Egypt</string>
+    <string name="zip_code">EG</string>
+    <string name="reviews">(160 Reviews)</string>
+    <string name="evaluation">4.5</string>
+    <string name="time">3 hr</string>
+    <string name="russian">Russian</string>
+    <string name="time_day">5 Days ago</string>
+</resources>
